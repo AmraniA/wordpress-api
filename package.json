@@ -1,0 +1,7 @@
+{
+  "name" : "wordpress-api",
+  "version" : "1.0.0",
+  "dependencies" : {
+    "wpapi": "^1.1.2"
+  }
+}
