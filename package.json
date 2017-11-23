@@ -3,5 +3,9 @@
   "version" : "1.0.0",
   "dependencies" : {
     "wpapi": "^1.1.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmraniA/wordpress-api.git"
   }
 }
