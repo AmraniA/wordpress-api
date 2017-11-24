@@ -19,12 +19,9 @@ const create = (config) => {
   }
   const getApi = () => api
   return {
-    // a list of the API functions from step 2
-    // doAuthenticate,
     getPosts,
     getCategories,
     getMedia,
-    // just expose the api
     getApi
   }
 }
